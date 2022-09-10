@@ -3,7 +3,7 @@
 # Enabling the extension
 1. Navigate to the extension tab and search for 'lightcube' in the community section
 2. Toggle the enable button to start playing with the extension. 
-3. Please note, inorder to use the extension you will need the source asset for the same. It is located in the extension repo path: 
+3. Please note, inorder to use the extension you will need the source asset for the same. It is located in the extension repo path: [exts\light_box.cube.v1\light_box\cube\v1\assets\lightcube.usd](https://github.com/hackassin/light-cube-matrix/blob/main/exts/light_box.cube.v1/light_box/cube/v1/assets/lightcube.usd)
 
 
 # Using the extension
